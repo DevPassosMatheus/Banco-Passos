@@ -1,41 +1,27 @@
-# <h1>Banco-Passos</h1>
-<p> Um caixa eletrônico de banco, feito com JavaScript puro!</p>
-<br>
-<br>
+# Banco Passos - Caixa eletrônico em JavaScript puro
 
+Bem-vindo(a) ao projeto Banco Passos! Este é um caixa eletrônico simples criado em JavaScript puro para praticar JavaScript.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7051302566793494528?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
+## Sobre o projeto
 
-<br>
-
-
-
-<h2>Sobre o projeto</h2>
-<p>Olá, é um prazer recebê-lo(a) aqui!
 No mundo da programação, todo iniciante anseia por uma rápida evolução e muitas vezes acredita que pode dominar tudo em apenas seis meses. No entanto, devemos nos lembrar de que somos eternos aprendizes e que no desenvolvimento web é necessário estar em constante estudo e atualização.
 
 Como disse Sócrates, "só sei que nada sei". Reconhecer nossa própria ignorância é o que nos permite evoluir. É fundamental estarmos sempre abertos a novos conhecimentos. Se você é um iniciante, pode não notar muitas diferenças entre o início e o final dos códigos. No entanto, se tiver um breve conhecimento em JavaScript, poderá perceber como evoluí em cada código, em cada função. Meu objetivo é mostrar o impacto que cada projeto tem em nós como profissionais iniciantes.
-</p>
 
-<img src="https://www.camara.leg.br/midias/image/2022/08/conversa-1-768x576.png"https://www.camara.leg.br/midias/image/2022/08/conversa-1-768x576.png" />
+![socrates](https://user-images.githubusercontent.com/125465372/236366932-2c00fc74-9185-4fb2-98b1-6dd3b52e887d.png)
 
+## Como usar
 
-<br>
-<br>
+Para usar este caixa eletrônico, basta fazer o download completo do projeto e garantir que as imagens estejam corretamente salvas. Para realizar operações que envolvam saída de valores da conta, como saque ou transferência, é necessário validar a senha, que é 3589.
 
-<h2>Inspirações</h2>
-<p>
+Ao fazer uma transferência, preencha corretamente os campos "Dados da conta", pois o programa não permitirá que você realize a operação se houver informações incorretas. Há instruções sobre o preenchimento de cada campo na interface.
 
-</p>
-<br>
-<br>
+Seu saldo é atualizado a cada operação, a menos que você atualize a página. Você pode verificar seu extrato de entradas e saídas em "Extrato e saldo".
 
+## Inspirações
 
-<h2>Próximos passos</h2>
-<p>
+Para criar este projeto, me inspirei na interface de caixas eletrônicos comuns que usamos no dia a dia, e também na tipografia do Banco PAN.
 
-</p>
-<br>
-<br>
+## Próximos passos
 
-
+Meus próximos passos para este projeto incluem a conversão para React, tornando-o responsivo e interligando-o a um banco de dados com uma API usando Java.
